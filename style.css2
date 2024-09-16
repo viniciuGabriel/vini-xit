@@ -1,0 +1,5 @@
+:root{
+    --branco-principal:
+    #ffffff;
+    --cinza-secundario:
+    #747474;}
